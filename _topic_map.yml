@@ -1,0 +1,66 @@
+---
+Name: Getting Started
+Dir: getting-started
+Distros: aerogear-main
+Topics:
+  - Name: Oveview
+    File: mobile_overview
+  - Name: Terminology
+    File: mobile_terminology
+  - Name: Architecture
+    File: mobile_architecture
+  - Name: Installing
+    File: minishift_install
+  - Name: Debugging guide
+    File: debugging_guide
+---
+Name: Using AeroGear Push
+Dir: Push
+Distros: aerogear-push
+Topics:
+  - Name: Overview
+    File: service-overview
+  - Name: Getting Started with Push
+    File: push-getting-started
+  - Name: Configuring Push
+    File: configuring-push
+  - Name: Using SDKs for Push
+    File: using-push-sdks
+---    
+Name: Using AeroGear Sync
+Dir: Sync
+Distros: aerogear-sync
+Topics:
+  - Name: Overview
+    File: service-overview
+  - Name: Getting Started with Sync
+    File: push-getting-started
+  - Name: Configuring Sync
+    File: configuring-sync
+  - Name: Using SDKs for Sync
+    File: using-sync-sdks
+---    
+Name: Using AeroGear iOS SDK
+Dir: iOSSDK
+Distros: aerogear-iossdk
+Topics:
+  - Name: Overview
+    File: sdk-overview
+  - Name: Compatibility
+    File: compatibility
+---    
+Name: Using AeroGear Android SDK
+Dir: AndroidSDK
+Distros: aerogear-androidsdk
+Topics:
+  - Name: Overview
+    File: sdk-overview
+  - Name: Compatibility
+    File: compatibility
+---    
+Name: Using Custom Mobile Services
+Dir: services
+Distros: aerogear-main
+Topics:
+  - Name: Creating a Custom Mobile Service
+    File: creating-custom-service
