@@ -10,67 +10,42 @@ aerogear-main:
       name: Latest
       dir: latest
 aerogear-push:
-  name: AeroGear Push
+  name: AeroGear
   author: Aerogear
   site: main
   site_name: Home
   site_url: http://aerogear.org/
   branches:
     master:
-      name: Latest
-      dir: latest
-    pushv1.0:
-      name: v1.0
-      dir: v1.0
-    pushv1.1:
-      name: v1.1
-      dir: v1.1
+      name: Push Service
+      dir: push
 aerogear-sync:
-  name: AeroGear Sync
+  name: AeroGear
   author: Aerogear
   site: main
   site_name: Home
   site_url: http://aerogear.org/
   branches:
     master:
-      name: Latest
-      dir: latest
-    syncv1.0:
-      name: v1.0
-      dir: v1.0
-    syncv1.1:
-      name: v1.1
-      dir: v1.1
+      name: Sync Service
+      dir: sync
 aerogear-iossdk:
-  name: AeroGear iOS SDK
+  name: AeroGear
   author: Aerogear
   site: main
   site_name: Home
   site_url: http://aerogear.org/
   branches:
     master:
-      name: Latest
-      dir: latest
-    iosv1:
-      name: v1.0
-      dir: v1.0
-    iosv2:
-      name: v1.1
-      dir: v1.1
-
+      name: iOS SDK
+      dir: ios
 aerogear-androidsdk:
-  name: AeroGear Android SDK
+  name: AeroGear
   author: Aerogear
   site: main
   site_name: Home
   site_url: http://aerogear.org/
   branches:
     master:
-      name: Latest
-      dir: latest
-    androidv1.0:
-      name: v1.0
-      dir: v1.0
-    androidv1.1:
-      name: v1.1
-      dir: v1.1
+      name: Android SDK
+      dir: android
