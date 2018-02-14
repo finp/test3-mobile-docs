@@ -14,31 +14,65 @@ Topics:
   - Name: Debugging guide
     File: debugging_guide
 ---
-Name: Using AeroGear Push (latest)
+Name: AeroGear Push (latest)
 Dir: push-master
 Distros: aerogear-push
 Topics:
-  - Name: Overview
-    File: overview
-  - Name: Getting Started with Push
-    File: push-getting-started
-  - Name: Configuring Push
-    File: configuring-push
-  - Name: Using SDKs for Push
-    File: using-push-sdks
+- Name: Push User's Guide
+  Dir: user
+  Topics:
+    - Name: Overview
+      File: overview
+    - Name: Install the UnifiedPush Server
+      File: server-installation
+    - Name: System Properties for the UnifiedPush Server
+      File: server-installation_properties
+    - Name: Cluster and Docker
+      File: server-installation_advanced
+    - Name: Openshift
+      File: openshift
+    - Name: Using the Admin UI
+      File: admin-ui
+    - Name: Debugging the UnifiedPush Server
+      File: ups-debugging
+    - Name: Integrating the UnifiedPush Server
+      File: integration
+    - Name: Database migration
+      File: migration
+    - Name: Next steps
+      File: next
+    - Name: Appendix
+      File: appendix
 ---
-Name: Using AeroGear Push (v1.0)
+Name: AeroGear Push (v1.0)
 Dir: push-v1.0
 Distros: aerogear-push
 Topics:
-  - Name: Overview
-    File: overview
-  - Name: Getting Started with Push
-    File: push-getting-started
-  - Name: Configuring Push
-    File: configuring-push
-  - Name: Using SDKs for Push
-    File: using-push-sdks
+- Name: Push User's Guide
+  Dir: user
+  Topics:
+    - Name: Overview
+      File: overview
+    - Name: Install the UnifiedPush Server
+      File: server-installation
+    - Name: System Properties for the UnifiedPush Server
+      File: server-installation_properties
+    - Name: Cluster and Docker
+      File: server-installation_advanced
+    - Name: Openshift
+      File: openshift
+    - Name: Using the Admin UI
+      File: admin-ui
+    - Name: Debugging the UnifiedPush Server
+      File: ups-debugging
+    - Name: Integrating the UnifiedPush Server
+      File: integration
+    - Name: Database migration
+      File: migration
+    - Name: Next steps
+      File: next
+    - Name: Appendix
+      File: appendix
 ---    
 Name: Using AeroGear Sync
 Dir: sync-master
@@ -54,7 +88,7 @@ Topics:
     File: using-sync-sdks
 ---    
 Name: Using AeroGear iOS SDK
-Dir: iOSSDK
+Dir: ios-master
 Distros: aerogear-iossdk
 Topics:
   - Name: Overview
