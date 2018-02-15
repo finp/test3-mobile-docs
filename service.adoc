@@ -1,0 +1,10 @@
+== Overview of {service-name}
+=== {version-no} Release Notes
+== Setting up {service-name}
+== Configuring {service-name}
+== Developing {service-name} apps using AeroGear SDKs
+== Integrating {service-name} with other mobile services
+== Troubleshooting {service-name}
+== Upgrading {service-name}
+=== {version-no} Release Notes
+== {service-name} reference

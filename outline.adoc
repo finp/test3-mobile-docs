@@ -1,0 +1,56 @@
+= AeroGear {mobile.next}
+:toc:
+
+= Getting Started
+== Overview of AeroGear Mobile Services
+== Terminology
+== Architecture
+== Installing AeroGear Mobile Services
+== Debugging AeroGear Mobile Services
+== Using an AeroGear Mobile Service {Tutorial}
+=== Create Auth Service
+=== Create Cordova App
+=== Monitor Service and App
+
+//for testing only
+:version-no: 0.0.1
+
+:service-name: Metrics Service
+= Using the {service-name}
+include::service.adoc[]
+
+= Using the Auth Mobile Service
+:service-name: Auth
+= Using the {service-name}
+include::service.adoc[]
+
+:service-name: Push Service
+= Using the {service-name}
+include::service.adoc[]
+
+:service-name: Sync Service
+= Using the {service-name}
+include::service.adoc[]
+
+:sdk-name: iOS SDK
+= Using the AeroGear {sdk-name}
+include::sdk.adoc[]
+
+:sdk-name: Android SDK
+= Using the AeroGear {sdk-name}
+include::sdk.adoc[]
+
+:sdk-name: Cordova SDK
+= Using the AeroGear {sdk-name}
+include::sdk.adoc[]
+
+
+= Using the Mobile CLI
+== Installing the Mobile CLI
+== Mobile CLI reference
+
+= Maintaining AeroGear Mobile Services
+= Release Notes
+
+
+
