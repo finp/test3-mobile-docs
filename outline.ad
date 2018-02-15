@@ -1,0 +1,110 @@
+= AeroGear {mobile.next}
+:toc:
+
+= Getting Started
+== Overview of AeroGear Mobile Services
+== Terminology
+== Architecture
+== Installing AeroGear Mobile Services
+== Debugging AeroGear Mobile Services
+== Using an AeroGear Mobile Service {Tutorial}
+=== Create Auth Service
+=== Create Cordova App
+=== Monitor Service and App
+
+//for testing only
+:version-no: 0.0.1
+
+:service-name: Metrics Service
+= Using the {service-name}
+== Overview of {service-name}
+=== {version-no} Release Notes
+== Setting up {service-name}
+== Configuring {service-name}
+== Developing {service-name} apps using AeroGear SDKs
+== Integrating {service-name} with other mobile services
+== Troubleshooting {service-name}
+== Upgrading {service-name}
+=== {version-no} Release Notes
+== {service-name} reference
+
+= Using the Auth Mobile Service
+:service-name: Auth
+= Using the {service-name}
+== Overview of {service-name}
+=== {version-no} Release Notes
+== Setting up {service-name}
+== Configuring {service-name}
+== Developing {service-name} apps using AeroGear SDKs
+== Integrating {service-name} with other mobile services
+== Troubleshooting {service-name}
+== Upgrading {service-name}
+=== {version-no} Release Notes
+== {service-name} reference
+
+:service-name: Push Service
+= Using the {service-name}
+== Overview of {service-name}
+=== {version-no} Release Notes
+== Setting up {service-name}
+== Configuring {service-name}
+== Developing {service-name} apps using AeroGear SDKs
+== Integrating {service-name} with other mobile services
+== Troubleshooting {service-name}
+== Upgrading {service-name}
+=== {version-no} Release Notes
+== {service-name} reference
+
+:service-name: Sync Service
+= Using the {service-name}
+== Overview of {service-name}
+=== {version-no} Release Notes
+== Setting up {service-name}
+== Configuring {service-name}
+== Developing {service-name} apps using AeroGear SDKs
+== Integrating {service-name} with other mobile services
+== Troubleshooting {service-name}
+== Upgrading {service-name}
+=== {version-no} Release Notes
+== {service-name} reference
+
+:sdk-name: iOS SDK
+= Using the AeroGear {sdk-name}
+== Overview of {sdk-name}
+=== {version-no} Release Notes
+== Setting up {sdk-name}
+== Developing mobile service apps using {sdk-name}
+== Troubleshooting {sdk-name} apps
+== Upgrading {sdk-name}
+=== {version-no} Release Notes
+== {sdk-name} reference
+
+:sdk-name: Android SDK
+= Using the AeroGear {sdk-name}
+== Overview of {sdk-name}
+=== {version-no} Release Notes
+== Setting up {sdk-name}
+== Developing mobile service apps using {sdk-name}
+== Troubleshooting {sdk-name} apps
+== Upgrading {sdk-name}
+=== {version-no} Release Notes
+== {sdk-name} reference
+
+:sdk-name: Cordova SDK
+= Using the AeroGear {sdk-name}
+== Overview of {sdk-name}
+=== {version-no} Release Notes
+== Setting up {sdk-name}
+== Developing mobile service apps using {sdk-name}
+== Troubleshooting {sdk-name} apps
+== Upgrading {sdk-name}
+=== {version-no} Release Notes
+== {sdk-name} reference
+
+
+= Using the Mobile CLI
+== Installing the Mobile CLI
+== Mobile CLI reference
+
+= Maintaining AeroGear Mobile Services
+= Release Notes
